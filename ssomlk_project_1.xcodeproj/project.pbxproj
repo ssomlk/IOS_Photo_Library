@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		38372C9C1FAABCF7000FAE09 /* TakePhotoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38372C9B1FAABCF7000FAE09 /* TakePhotoVC.swift */; };
 		3881A0191FAA557B00CBBB91 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3881A0181FAA557B00CBBB91 /* AppDelegate.swift */; };
 		3881A01B1FAA557B00CBBB91 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3881A01A1FAA557B00CBBB91 /* ViewController.swift */; };
 		3881A01E1FAA557B00CBBB91 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3881A01C1FAA557B00CBBB91 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		38372C9B1FAABCF7000FAE09 /* TakePhotoVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TakePhotoVC.swift; sourceTree = "<group>"; };
 		3881A0151FAA557B00CBBB91 /* ssomlk_project_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ssomlk_project_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3881A0181FAA557B00CBBB91 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3881A01A1FAA557B00CBBB91 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				3881A0241FAA557B00CBBB91 /* LaunchScreen.storyboard */,
 				3881A0271FAA557B00CBBB91 /* Info.plist */,
 				3881A01F1FAA557B00CBBB91 /* ssomlk_project_1.xcdatamodeld */,
+				38372C9B1FAABCF7000FAE09 /* TakePhotoVC.swift */,
 			);
 			path = ssomlk_project_1;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38372C9C1FAABCF7000FAE09 /* TakePhotoVC.swift in Sources */,
 				3881A0211FAA557B00CBBB91 /* ssomlk_project_1.xcdatamodeld in Sources */,
 				3881A01B1FAA557B00CBBB91 /* ViewController.swift in Sources */,
 				3881A0191FAA557B00CBBB91 /* AppDelegate.swift in Sources */,
@@ -511,6 +515,7 @@
 				3881A0421FAA557B00CBBB91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3881A0431FAA557B00CBBB91 /* Build configuration list for PBXNativeTarget "ssomlk_project_1Tests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +524,7 @@
 				3881A0451FAA557B00CBBB91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3881A0461FAA557B00CBBB91 /* Build configuration list for PBXNativeTarget "ssomlk_project_1UITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +533,7 @@
 				3881A0481FAA557B00CBBB91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
